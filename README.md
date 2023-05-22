@@ -7,6 +7,6 @@
 - 👯 I’m looking to collaborate on my open source project
 - 🤔 I’m looking for help with Github Action
 - 💬 Ask me about ...
-- 📫 How to reach me: https://blog.panghai.top
+- 📫 How to reach me: https://blog.aqcoder.cn
 - 😄 Pronouns: be a coder
 - ⚡ Fun fact: 
